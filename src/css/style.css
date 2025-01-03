@@ -32,6 +32,8 @@
   }
 }
 
+#map { height: 180px; }
+
 /* third-party libraries CSS */
 
 .tableCheckbox:checked ~ div span {
